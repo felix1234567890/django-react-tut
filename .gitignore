@@ -49,6 +49,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+# Project-specific virtual environments
+backend/env/
 
 # VS Code
 .vscode/*
